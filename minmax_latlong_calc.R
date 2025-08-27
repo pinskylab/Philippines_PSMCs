@@ -3,7 +3,8 @@
 library("rgbif")
 library("maptools")
 library("ggmap")
-#ggmap::register_google(key="AIzaSyAQN8WMB8lxnbWcq3NDjkMardx4N6ANiRI")
+#google API key needed, but can't be in public repo. redacting!
+#ggmap::register_google(key="REDACTED")
 library("spThin")
 
 specieslist=c("Ambassis urotaenia","Ambassis kopsii","Taeniamia biguttata","Taeniamia kagoshimanus","Taeniamia zosterophora","Ostorhinchus chrysopomus","Doboatherina duodecimalis","Hypoatherina temminckii","Salarias fasciatus","Spratelloides gracilis","Herklotsichthys quadrimaculatus","Gerres oyena","Halichoeres miniatus","Stethojulis interrupta","Leiognathus leuciscus","Lethrinus variegatus","Periophthalmus argentilineatus","Plotosus lineatus","Pomacentrus pavo","Siganus spinus","Corythoichthys haematopterus","Chromis viridis","Dascyllus aruanus","Parupeneus barberinus","Pseudanthias squamipinnis","Sphyraena obtusata")
