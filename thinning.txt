@@ -1,0 +1,64 @@
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Wed Jul  5 20:38:38 2023
+There appear to be more than one species name in this *.csv file.
+Only using species name: Corythoichthys haematopterus (Bleeker, 1851)
+
+Thinning Parameter Used (in km): 70
+Number of replicates of thinning script: 20
+
+Elapsed time for thinning completion
+0.039 0.005 0.052 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+88
+20
+Maximum number of records after thinning: 88
+Number of data.frames with max records: 20
+
+**New *.csv file creation:**
+Created new output directory: thinned
+Writing file: thinned/Corythoichthys haematopterus_thin1.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Wed Jul  5 20:44:41 2023
+
+Thinning Parameter Used (in km): 70
+Number of replicates of thinning script: 20
+
+Elapsed time for thinning completion
+0.043 0.007 0.073 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+88
+20
+Maximum number of records after thinning: 88
+Number of data.frames with max records: 20
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: thinned
+thinned/Corythoichthys haematopterus_thin1_new.csv ' already exists. Renaming file 
+                                   to avoid overwriting.
+Writing file: thinned/Corythoichthys haematopterus_thin1_new.csv
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Wed Jul  5 20:45:07 2023
+
+Thinning Parameter Used (in km): 70
+Number of replicates of thinning script: 20
+
+Elapsed time for thinning completion
+0.039 0.003 0.042 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+88
+20
+Maximum number of records after thinning: 88
+Number of data.frames with max records: 20
+
+**New *.csv file creation:**
+Writing new *.csv files to output directory: thinned
+Writing file: thinned/Corythoichthys haematopterus_thin1.csv
